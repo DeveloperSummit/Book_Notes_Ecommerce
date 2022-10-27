@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.himanshjosh">
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher_himanshu"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_himanshu_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HimanshJosh"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".webview.WebViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".order.order_placing"
+            android:exported="false"
+            android:label="@string/title_activity_order_summery_new"
+            android:theme="@style/Theme.HimanshJosh.NoActionBar" />
+        <activity
+            android:name=".order.PaymentActivity"
+            android:exported="true"
+            android:label="@string/title_activity_payment"
+            android:theme="@style/Theme.HimanshJosh.NoActionBar" />
+        <activity
+            android:name=".order.OrderSummeryNewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".produts.ProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".produts.AllProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".produts.ProductDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.HimanshJosh.NoActionBar" />
+        <activity
+            android:name="com.example.himanshjosh.loign.LoignBaseActivity"
+            android:exported="true"
+            android:theme="@style/Theme.HimanshJosh.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".cart.CartActivity" />
+    </application>
+
+</manifest>

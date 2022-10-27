@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/button_background.xml" value="0.138" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/continue2_background.xml" value="0.1665" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/continue_background.xml" value="0.159" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/delete.xml" value="0.2025" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/email.xml" value="0.124" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/home_linear2_background.xml" value="0.1405" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1915" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1995" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/icon_shopping_cart_24.xml" value="0.184" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/linear_dotted_background.xml" value="0.1665" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/drawable/side_nav_bar.xml" value="0.124" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/activity_loign_base.xml" value="0.17028985507246377" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/activity_order_summery.xml" value="0.16460025651988028" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/activity_order_summery_new.xml" value="0.12" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/activity_payment.xml" value="0.22" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/activity_product.xml" value="0.25" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/activity_product_details.xml" value="0.2" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/activity_web_view.xml" value="0.12" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/addreshdesing.xml" value="0.25" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/adpterview_order_summery.xml" value="0.25" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/allproduct.xml" value="0.16538461538461538" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/cart.xml" value="0.2" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/cart_item.xml" value="0.2" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/content_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/content_main2.xml" value="0.1272644927536232" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_blank.xml" value="0.1875" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_blank_fragmentzazsazs_azsxs.xml" value="0.10733695652173914" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_first.xml" value="0.10733695652173914" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_home.xml" value="0.2138121546961326" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_logout.xml" value="0.18" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_logout2.xml" value="0.2015625" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_order_history.xml" value="0.16545532278751604" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_second.xml" value="0.10733695652173914" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_signup.xml" value="0.25" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_slideshow.xml" value="0.22" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/fragment_splash.xml" value="0.17028985507246377" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/image_slider_layout_item.xml" value="0.10597826086956522" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/layout_historylist.xml" value="0.2" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/layout_progressbar.xml" value="1.1" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/my_dialog.xml" value="0.2015625" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/nodatafound.xml" value="0.16545532278751604" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/order_placing.xml" value="0.22" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/view__circle_horizontal.xml" value="0.33" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/view_grid.xml" value="0.17980072463768115" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/view_horizontal.xml" value="0.33" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/view_horizontalNew.xml" value="0.11639492753623189" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/view_horizontalnew.xml" value="0.33" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/layout/view_product.xml" value="0.5" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/menu-v26/main.xml" value="0.2015625" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/menu/main.xml" value="0.18703703703703703" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_himanshu.xml" value="0.22" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_himanshu_round.xml" value="0.11" />
+        <entry key="..\:/Himanshjosh2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.15" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

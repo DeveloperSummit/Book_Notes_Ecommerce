@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cat_iamge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dim_4"
+        app:cardCornerRadius="100dp"
+        app:strokeColor="@color/icon_color_700"
+        app:strokeWidth="1dp">
+
+        <ImageView
+            android:padding="@dimen/dim_8"
+            android:layout_width="76dp"
+            android:layout_height="76dp"
+            android:id="@+id/cat_image"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/image_not_found" />
+    </com.google.android.material.card.MaterialCardView>
+
+    <TextView
+        android:id="@+id/cat_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cat_iamge"
+        android:layout_centerHorizontal="true"
+        android:text="Vegetables "
+        android:textColor="@color/black">
+
+    </TextView>
+
+</RelativeLayout>
+
+
+
+
+

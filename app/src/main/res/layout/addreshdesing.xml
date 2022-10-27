@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:fillViewport="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<LinearLayout
+    android:paddingBottom="32dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+  <ImageView
+      android:id="@+id/button_close"
+      android:layout_margin="@dimen/dim_8"
+      android:src="@drawable/ic_baseline_close_24"
+      android:layout_width="50dp"
+      android:layout_height="50dp"/>
+
+
+  <com.google.android.material.textfield.TextInputLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@id/signin_with_your_email"
+      android:paddingStart="25dp"
+      android:paddingRight="25dp"
+      android:hint="Address"
+      android:textColorHint="@color/icon_color_700"
+      android:layout_marginTop="30dp">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/edit_address"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black"/>
+
+  </com.google.android.material.textfield.TextInputLayout>
+  <com.google.android.material.textfield.TextInputLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@id/signin_with_your_email"
+      android:paddingStart="25dp"
+      android:paddingRight="25dp"
+      android:hint="City"
+      android:textColorHint="@color/icon_color_700"
+      android:layout_marginTop="30dp">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/edit_city"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black"/>
+
+  </com.google.android.material.textfield.TextInputLayout>
+  <com.google.android.material.textfield.TextInputLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@id/signin_with_your_email"
+      android:paddingStart="25dp"
+      android:paddingRight="25dp"
+      android:hint="State"
+      android:textColorHint="@color/icon_color_700"
+      android:layout_marginTop="30dp">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/edit_state"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black"/>
+
+  </com.google.android.material.textfield.TextInputLayout>
+  <com.google.android.material.textfield.TextInputLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@id/signin_with_your_email"
+      android:paddingStart="25dp"
+      android:paddingRight="25dp"
+      android:hint="Country"
+      android:textColorHint="@color/icon_color_700"
+      android:layout_marginTop="30dp">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/edit_Country"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black"/>
+
+  </com.google.android.material.textfield.TextInputLayout>
+
+
+  <Button
+      android:layout_marginTop="30dp"
+      android:id="@+id/button_updateaddresh"
+      android:layout_width="match_parent"
+      android:layout_marginStart="22dp"
+      android:layout_marginEnd="22dp"
+      android:layout_height="60dp"
+      android:layout_marginBottom="20dp"
+      android:text="Update Address"
+      android:textColor="@color/white"
+      android:backgroundTint="@color/icon_color_700"
+      android:textAllCaps="false"
+      android:textSize="16dp" />
+
+
+
+</LinearLayout>
+</ScrollView>
